@@ -11,7 +11,7 @@ const type = document.getElementById('type');
 const filterYear = document.getElementById('filter-year');
 const filterMonth = document.getElementById('filter-month');
 
-const API_URL = 'http://localhost:3000/api/transactions';
+const API_URL = 'https://personalfinancetracker-p7pk.onrender.com/api/transactions';
 
 let allTransactions = [];
 
