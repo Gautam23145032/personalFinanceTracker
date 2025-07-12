@@ -26,7 +26,7 @@ personal-finance-tracker/
 
 ## 🌐 Live Demo
 
-Hosted on: `[click here](https://gautam23145032.github.io/FnanaceTracker/)`
+[click here](https://gautam23145032.github.io/FnanaceTracker/)
 
 ---
 
